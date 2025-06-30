@@ -12,21 +12,26 @@ This project analyzes the **Superstore** sales dataset (sourced from Kaggle) to 
 
 ---
 
-## 📁 Dataset
-- Original dataset sourced from Kaggle:  
-  [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
-- Format: CSV  
-- Rows: Approximately 10,000+  
-- Key fields: Order Date, Sales, Profit, Category, Sub-Category, Segment, Region, Customer Info
-
----
-
 ## 🎯 Business Questions Answered
 1. What are the total sales and profit by region?  
 2. How do sales and profit trends vary over time (by year)?  
 3. What is the sales and profit breakdown by product category?  
 4. How do sales and profit perform across different customer segments?  
 
-*(Additional insights are available within the dashboard workbook.)*
+---
+
+## 💡 Key Insights
+- The **West region** has the highest total sales and profit.
+- Sales and profit peaked in **2017**, showing a strong growth trend.
+- The **Technology** category delivers the most profit, followed by Office Supplies.
+- The **Consumer segment** leads in overall revenue generation.
+
+  *(Additional insights are available within the dashboard workbook.)*
+
+---
+
+## 📁 Dataset
+- Original dataset sourced from Kaggle:  
+  [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 
 ---
