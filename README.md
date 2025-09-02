@@ -30,6 +30,12 @@ This project analyzes the **Superstore** sales dataset (sourced from Kaggle) to 
 
 ---
 
+## 🚀 Recommendations
+- More targeted marketing strategies and resource allocation aimed towards the West region since it is the most profitable region.
+- Continue to expand technology offerings since it is the most profitable category of sales.
+- Further boost consumer segment loyalty with promotions, loyalty programs, or other benefits as it is the leader of revenue generation.
+- Investigate lower performing regions to see potential cause for unmet market needs, or to see if there is a valid explanation for lower performance. 
+
 ## 📁 Dataset
 - Original dataset sourced from Kaggle:  
   [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
